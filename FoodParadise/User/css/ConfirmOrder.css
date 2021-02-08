@@ -1,0 +1,51 @@
+#main-card {
+    padding: 3% 0%;
+    /* background: #808080; */
+    margin-top: 1%;
+    border: 3px solid black;
+    box-shadow: 4px 4px 9px -2px grey;
+    border-radius: 30px;
+}
+
+p {
+    margin-top: 15px;
+    margin-bottom: 0;
+    font-size: 13px;
+    letter-spacing: 2px;
+    color: #808080;
+}
+
+span,
+label,
+h6 {
+    font-size: 15px;
+    font-weight: 600;
+    letter-spacing: 4px;
+    color: #9acd32;
+}
+
+.btn {
+    width: 80%;
+    background: #9acd32;
+    border: none;
+    line-height: 30px;
+    margin-top: 5%;
+}
+
+a {
+    color: #808080;
+    letter-spacing: 2px;
+    font-weight: 600;
+}
+
+a:hover {
+    color: #000;
+    text-decoration: none;
+}
+
+marquee {
+    color: #808080;
+    font-weight: 600;
+    letter-spacing: 3px;
+    font-size: 19px;
+}

@@ -1,0 +1,91 @@
+#dis-none-css {
+    display: none;
+}
+
+.cardd {
+    background: #fff;
+    padding: 2%;
+    margin-top: 3%;
+    box-shadow: inset 2px 2px 4px 1px grey;
+    border-radius: 20px;
+}
+
+.imgss {
+    box-shadow: 3px 4px 9px 0px grey;
+    border: 2px solid #000;
+    border-radius: 20px;
+}
+
+.title {
+    margin: 0;
+    padding: 0;
+    margin-top: 1.5rem;
+    font-size: 11px;
+    letter-spacing: 1px;
+    color: #808080;
+}
+
+p {
+    color: #808080;
+    font-size: 17px;
+    font-weight: 600;
+    letter-spacing: 2px;
+}
+
+.remove {
+    margin-top: 1.7rem;
+}
+
+.remove a {
+    color: yellowgreen;
+}
+
+.remove a:hover {
+    text-decoration: none;
+    color: #ff7600;
+}
+
+.cardd-2 {
+    background-color: #383A3F;
+    padding: 2%;
+    border-radius: 10px;
+    width: 70%;
+    margin: auto;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.cardd-2 p {
+    margin: 0;
+    color: #F6B352;
+    font-size: 25px;
+}
+
+.cardd-2 .btnn {
+    width: 20%;
+    background: #ff4500;
+    margin: auto;
+    border-radius: 16px;
+    line-height: 20px;
+}
+
+
+/* .btnn {
+    background: #ff4500;
+    width: 20%;
+    margin: auto;
+    border-radius: 10px;
+} */
+
+.btnn a {
+    font-size: 12px;
+}
+
+.btnn a:hover {
+    text-decoration: none;
+    color: #F6B352;
+}
+
+.a1 {
+    margin-top: 20%;
+}
